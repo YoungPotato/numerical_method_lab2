@@ -1,3 +1,5 @@
+___Работы в папках bin и lib___
+
 # Работа 2
 
 ![IMG_0155](https://user-images.githubusercontent.com/50072328/145267979-3a9c24e1-6473-4065-9612-1026182e64b3.JPG)
